@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanout.Publiser", "Fanout.Publiser\Fanout.Publiser.csproj", "{C7BAAE43-43A6-46DF-9B9A-2DD394225679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanout.Customer", "Fanout.Customer\Fanout.Customer.csproj", "{2AC2E963-BDA9-4C69-984B-B4BB10792E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BAAE43-43A6-46DF-9B9A-2DD394225679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BAAE43-43A6-46DF-9B9A-2DD394225679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BAAE43-43A6-46DF-9B9A-2DD394225679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BAAE43-43A6-46DF-9B9A-2DD394225679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AC2E963-BDA9-4C69-984B-B4BB10792E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC2E963-BDA9-4C69-984B-B4BB10792E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC2E963-BDA9-4C69-984B-B4BB10792E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC2E963-BDA9-4C69-984B-B4BB10792E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2844276-6348-4596-A5A0-1EF7D601A7E9}
+	EndGlobalSection
+EndGlobal
